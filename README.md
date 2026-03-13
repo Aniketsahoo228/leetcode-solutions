@@ -7,6 +7,7 @@ My DSA journey from scratch | Daily LeetCode solutions with explanations | Start
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,4 +20,8 @@ My DSA journey from scratch | Daily LeetCode solutions with explanations | Start
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
