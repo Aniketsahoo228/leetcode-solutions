@@ -16,6 +16,7 @@ My DSA journey from scratch | Daily LeetCode solutions with explanations | Start
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,8 @@ My DSA journey from scratch | Daily LeetCode solutions with explanations | Start
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
