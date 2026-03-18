@@ -29,6 +29,7 @@ My DSA journey from scratch | Daily LeetCode solutions with explanations | Start
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -53,4 +54,12 @@ My DSA journey from scratch | Daily LeetCode solutions with explanations | Start
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
