@@ -7,6 +7,7 @@ My DSA journey from scratch | Daily LeetCode solutions with explanations | Start
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -38,6 +39,7 @@ My DSA journey from scratch | Daily LeetCode solutions with explanations | Start
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
