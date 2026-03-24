@@ -63,6 +63,7 @@ My DSA journey from scratch | Daily LeetCode solutions with explanations | Start
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0067-add-binary](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Memoization
