@@ -11,6 +11,7 @@ My DSA journey from scratch | Daily LeetCode solutions with explanations | Start
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -67,6 +68,7 @@ My DSA journey from scratch | Daily LeetCode solutions with explanations | Start
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/Aniketsahoo228/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 ## Memoization
