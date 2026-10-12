@@ -1,6 +1,9 @@
 class Solution:
     def reverseString(self, s: list[str]) -> None:
+        left, right = 0, len(s) - 1
         
-        return s.reverse()   
-
-        
+        while left < right:
+            # Swap the characters
+            s[left], s[right] = s[right], s[left]
+            left += 1
+            right -= 1
