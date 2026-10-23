@@ -1,27 +1,25 @@
-
 class Solution:
     def findDisappearedNumbers(self, nums: list[int]) -> list[int]:
         """
         Approach:
         1. Find the length of nums and store it in n.
-        2. Convert nums into a set to store unique elements for
-           faster membership checking.
-        3. Initialize an empty result list to store missing numbers.
-        4. Start checking numbers from 1 using i = 1.
-        5. Traverse all numbers from 1 to n using a while loop.
-        6. If i is not present in the set, append it to result.
-        7. Increment i to check the next number.
-        8. Return result containing all missing numbers.
+        2. Create a list hasht of size n + 1, initialized with zeros.
+        3. Traverse nums and mark each present number with 1 in hasht.
+        4. Traverse numbers from 1 to n.
+        5. If hasht[k] is 0, the number k is missing from nums.
+        6. Append each missing number to the result list l.
+        7. Return l containing all missing numbers.
         """
 
         n = len(nums)  # Store the length of nums
-        arr = set(nums)  # Store unique numbers for quick lookup
-        result = []  # Store the missing numbers
+        l = []  # Store the missing numbers
+        hasht = [0] * (n + 1)  # Initialize presence markers
 
-        i = 1  # Start from the first expected number
-        while i <= n:  # Check every number from 1 to n
-            if i not in arr:  # Check whether the number is missing
-                result.append(i)  # Add the missing number to result
-            i += 1  # Move to the next number
+        for k in nums:  # Visit each number in nums
+            hasht[k] = 1  # Mark the number as present
 
-        return result  # Return all missing numbers
+        for k in range(1, n + 1):  # Check numbers from 1 to n
+            if hasht[k] == 0:  # Check if the number is missing
+                l.append(k)  # Add the missing number to l
+
+        return l  # Return the missing numbers
